@@ -8,7 +8,7 @@ buy/hold/sell report. Always correct 15% of the time.
 
 ---
 
-![Dodgy Dave Screenshot](screenshot.png)
+![Dodgy Dave Screenshot](stock-predictions.png)
 
 ---
 
