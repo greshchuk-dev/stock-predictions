@@ -53,3 +53,28 @@ npm run dev
 ## Environment variables
 
 Create a `.env` file in the root with:
+VITE_OPENAI_API_KEY=your_openai_api_key_here
+VITE_POLYGON_API_KEY=your_polygon_api_key_here
+
+Get your keys from:
+- OpenAI: platform.openai.com
+- Polygon.io: polygon.io
+
+---
+
+## What I learned
+
+This project taught me how to chain two APIs together —
+first fetching real financial data, then passing it as
+context to an AI model with a custom system prompt.
+Managing async flows with Promise.all and handling
+partial failures was the most challenging part.
+
+---
+
+## Author
+
+Iryna Greshchuk · [GitHub](https://github.com/greshchuk-dev) ·
+[LinkedIn](https://linkedin.com/in/iryna-greshchuk-3a9807337)
+
+
